@@ -8,6 +8,18 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  ```git clone``` the project to your machine.
 2.  Create a Postgres database 
+
+### Front End Installation
+1. ```cd hone```
+2.  ```npm install```
+3.  ```npx prisma migrate```
+4.  (Other prisma commands?)
+5.  ```npm run dev```
+
+### Back End Installation
+
+
+
 3.  ```npm install```
    
 ## Prerequisites / Tech Stack
@@ -16,14 +28,6 @@ These instructions will get you a copy of the project up and running on your loc
 2. Postgres
 3. Express
 4. React
-
-## Installation
-### Front End
-1.  ```npm install```
-2.  ```npx prisma migrate```
-
-### Back End
-
 
 ## Usage
 
@@ -37,4 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
 2.  Jiaxian Gu [(@JiaxanGu)](https://github.com/JiaxianGu)
 3.  Kiarosh Moeini [(@kiaroshmoeini)](https://github.com/kiaroshmoeini)
 
+## License
+
+This project is licensed under the MIT License.
 

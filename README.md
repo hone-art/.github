@@ -6,7 +6,7 @@ Hone is an art journal web application. It allows artists to upload images of th
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-1.  git clone the project to your machine.
+1.  ```git clone``` the project to your machine.
 2.  Create a Postgres database 
 3.  ```npm install```
    
@@ -25,6 +25,6 @@ These instructions will get you a copy of the project up and running on your loc
 2. Create projects and entries
 3. Adjust preferences for comments and public / private access.
 
-##
+## Tests
+1. ```npm test```
 
-Tests

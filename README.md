@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  git clone the project to your machine.
 2.  Create a Postgres database 
-3.  npm install
+3.  ```npm install```
    
 ## Prerequisites
 

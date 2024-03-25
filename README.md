@@ -23,10 +23,10 @@ These instructions will get you a copy of the project up and running on your loc
 5.  ```npm run dev```    
 ## Prerequisites / Tech Stack
 
-1. Node
-2. Postgres
-3. Express
-4. React
+1. Postgres
+2. Express
+3. React
+4. Node
 
 ## Usage
 

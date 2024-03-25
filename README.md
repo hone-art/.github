@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Authors
 
 1.  Yurika Hirata (
-2.  Jiaxian Gu [(@JiaxanGu)]([url](https://github.com/orgs/hone-art/people/JiaxianGu)https://github.com/orgs/hone-art/people/JiaxianGu)
+2.  Jiaxian Gu [(@JiaxanGu)](https://github.com/JiaxianGu)
 3.  Kiarosh Moeini
 
 

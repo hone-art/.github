@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 3.  ```npx prisma migrate```
 4.  (Other prisma commands like generate necessary?)
 5.  ```npm run dev```    
-## Prerequisites / Tech Stack
+## Technologies Used
 
 1. Postgres
 2. Express

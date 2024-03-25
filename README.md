@@ -33,8 +33,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-1.  Yurika Hirata (
+1.  Yurika Hirata [(@yurikahirata)](https://github.com/yurikahirata)
 2.  Jiaxian Gu [(@JiaxanGu)](https://github.com/JiaxianGu)
-3.  Kiarosh Moeini
+3.  Kiarosh Moeini [(@kiaroshmoeini)](https://github.com/kiaroshmoeini)
 
 

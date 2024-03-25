@@ -10,14 +10,20 @@ These instructions will get you a copy of the project up and running on your loc
 2.  Create a Postgres database 
 3.  ```npm install```
    
-## Prerequisites
+## Prerequisites / Tech Stack
 
 1. Node
 2. Postgres
+3. Express
+4. React
 
-## Installing
-
+## Installation
+### Front End
 1.  ```npm install```
+2.  ```npx prisma migrate```
+
+### Back End
+
 
 ## Usage
 
@@ -25,6 +31,10 @@ These instructions will get you a copy of the project up and running on your loc
 2. Create projects and entries
 3. Adjust preferences for comments and public / private access.
 
-## Tests
-1. ```npm test```
+## Authors
+
+1.  Yurika Hirata (
+2.  Jiaxian Gu [(@JiaxanGu)]([url](https://github.com/orgs/hone-art/people/JiaxianGu)https://github.com/orgs/hone-art/people/JiaxianGu)
+3.  Kiarosh Moeini
+
 

@@ -7,21 +7,20 @@ Hone is an art journal web application. It allows artists to upload images of th
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 1.  ```git clone``` the project to your machine.
-2.  Create a Postgres database 
 
 ### Front End Installation
+
 1. ```cd hone```
 2.  ```npm install```
-3.  ```npx prisma migrate```
-4.  (Other prisma commands?)
-5.  ```npm run dev```
+3.  ```npm run dev```
 
 ### Back End Installation
 
-
-
-3.  ```npm install```
-   
+1.  Create a local Postgres database 
+2.  ```npm install```
+3.  ```npx prisma migrate```
+4.  (Other prisma commands like generate necessary?)
+5.  ```npm run dev```    
 ## Prerequisites / Tech Stack
 
 1. Node
@@ -44,4 +43,3 @@ These instructions will get you a copy of the project up and running on your loc
 ## License
 
 This project is licensed under the MIT License.
-

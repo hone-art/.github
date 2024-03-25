@@ -42,4 +42,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  See the [LICENSE.md](https://github.com/hone-art/.github/blob/main/LICENSE) file for details.
